@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+       <key>REVERSED_CLIENT_ID</key>
+       	<string>com.googleusercontent.apps.682857514182-jpqnk3mqmvhs7b2jc7g1sqgojh2gm2v3</string>
+       	<key>ANDROID_CLIENT_ID</key>
+       	<string>682857514182-06r8gdmhn7cg2gmivb8hpt4h54l6otk0.apps.googleusercontent.com</string>
+    </dict>
+</array>
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>stripe</string>
+</array>
+<key>com.apple.developer.in-app-payments</key>
+<array>
+    <string>MIHOMHUCAQAwEzERMA8GA1UEAxMITWVuYSBTaW0wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASvt2KiDDtdaz2Oh7Aj754nD+S3hc3sU37Lqm6/5GMBb+NF4sSi8LmOu0hk3gxfawXoDLwJphRuu2CETtVsmTWQoAAwCgYIKoZIzj0EAwIDSQAwRgIhAMcYuiHf3bSPE6o+qK7RqGH8BefyfRsU+30mK9dc2PAiAiEAxpqULlv352d+mR/mq1YmPwWVcBfL3+aA2igpWipa+hI=</string>
+</array>
+
+
+
+
+
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Ahmedsherf</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ahmedsherf</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>

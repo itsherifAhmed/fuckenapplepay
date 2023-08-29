@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.in-app-payments</key>
+	<array>
+		<string>merchant.MIHOMHUCAQAwEzERMA8GA1UEAxMITWVuYSBTaW0wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASvt2KiDDtdaz2Oh7Aj754nD+S3hc3sU37Lqm6/5GMBb+NF4sSi8LmOu0hk3gxfawXoDLwJphRuu2CETtVsmTWQoAAwCgYIKoZIzj0EAwIDSQAwRgIhAMcYuiHf3bSPE6o+qK7RqGH8BefyfRsU+30mK9dc2PAiAiEAxpqULlv352d+mR/mq1YmPwWVcBfL3+aA2igpWipa+hI=</string>
+	</array>
+</dict>
+</plist>
